@@ -59,8 +59,8 @@ Before running this project, ensure you have the following installed:
 1.  **Clone the repository**:
     If this project is hosted on GitHub, you can clone it using:
     ```bash
-    git clone <repository_url_here>
-    cd <project_directory_name>
+    git clone https://github.com/galang006/sentimen_analysis_tokopedia_dan_shopee
+    cd sentimen_analysis_tokopedia_dan_shopee
     ```
     Alternatively, download the project files and navigate to the project root directory.
 
@@ -84,8 +84,6 @@ Before running this project, ensure you have the following installed:
     With your virtual environment activated, install the required Python libraries:
 
     ```bash
-    pip install -r requirements.txt # (assuming a requirements.txt is created from above pip install command)
-    # OR if no requirements.txt, run the manual pip install command from Prerequisites
     pip install pandas scikit-learn Sastrawi nltk matplotlib seaborn imblearn scipy transformers datasets huggingface_hub wordcloud
     ```
 
