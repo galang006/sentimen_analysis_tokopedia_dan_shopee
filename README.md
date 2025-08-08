@@ -60,7 +60,6 @@ Before running this project, ensure you have the following installed:
     If this project is hosted on GitHub, you can clone it using:
     ```bash
     git clone https://github.com/galang006/sentimen_analysis_tokopedia_dan_shopee
-    cd sentimen_analysis_tokopedia_dan_shopee
     ```
     Alternatively, download the project files and navigate to the project root directory.
 
